@@ -47,7 +47,10 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Job: Defines the tasks, logic, and scheduling for a workload.
+# MAGIC %md
+# MAGIC
+# MAGIC Job Run: An instance of the execution of the job's tasks.
 
 # COMMAND ----------
 
@@ -60,4 +63,11 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC response = autojob(env="dev")
+# MAGIC %md
+# MAGIC
+# MAGIC It is based on dev environment
+
+# COMMAND ----------
+
+

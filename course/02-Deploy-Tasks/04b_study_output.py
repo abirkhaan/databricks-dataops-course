@@ -16,4 +16,12 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.borough_population
+# MAGIC
+# MAGIC acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.revenue_by_borough
+# MAGIC
+# MAGIC acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.revenue_by_tripmonth
+# MAGIC
+# MAGIC acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.revenue_per_inhabitant
+# MAGIC
+# MAGIC

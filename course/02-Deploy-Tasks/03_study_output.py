@@ -14,6 +14,10 @@
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC
-# MAGIC Answer here...
+acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.borough_population
+
+acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.revenue_by_borough
+
+acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.revenue_by_tripmonth
+
+acme_transport_taxinyc.dev_abirkhan_featgh111home_4c6799ab_revenue.revenue_per_inhabitant
